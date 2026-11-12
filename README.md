@@ -89,6 +89,6 @@ Settings persist across restarts. Edit the file only while the game is closed (o
 
 Open `BlockMiner_Forge_1.8.9_Build.ipynb` in Google Colab and choose **Runtime 鈫� Run all**. It installs Java 8, downloads Gradle 2.14.1,
 writes the project, builds with ForgeGradle 2.1, verifies the JAR and offers `BlockMiner-1.0.0.jar` and `BlockMiner-Source.zip` for download.
-Manual build (Java 8 + Gradle 2.14.1): `gradle setupCIWorkspace build` 鈫� `build/libs/BlockMiner-1.0.0.jar`.
+Manual build (Java 8 + Gradle 2.14.1): `gradle setupCIWorkspace build` 鈫� `build/libs/BlockMiner-1.0.0.jar`
 
 **[⬇ MOD LINK](https://github.com/Anshaks/BlockMiner/releases/tag/MOD)**
