@@ -1,6 +1,7 @@
 # BlockMiner (Minecraft Forge 1.8.9)
 
 **Author:** Curlgit 路 **Mod ID:** `blockminer` 路 **Version:** 1.0.0 路 **Minecraft:** Java Edition 1.8.9 路 **Forge:** 11.15.1.2318 路 **Java:** 8
+**Main Developers:** KSURitam & Anshaks
 
 Mine one block and BlockMiner removes more blocks of the **same type** for you, according to a per-block
 "Extra Count". Every dimension (Overworld, Nether, The End) has its own independent configuration.
